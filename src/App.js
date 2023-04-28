@@ -1,9 +1,9 @@
 import "./styles.css";
-import Navbar from "./components/Navbar";
+
 import { Routes } from "react-router-dom";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { Router, Switch, Route } from "react-router-dom";
 import Home from "./routes/Home";
-import About from "./routes/About";
+
 import Service from "./routes/Service";
 import Contact from "./routes/Contact";
 

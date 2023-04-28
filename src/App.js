@@ -1,7 +1,7 @@
 import "./styles.css";
 
 import { Routes } from "react-router-dom";
-import { Router, Switch, Route } from "react-router-dom";
+
 import Home from "./routes/Home";
 
 import Service from "./routes/Service";
